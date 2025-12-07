@@ -8,4 +8,5 @@ export default defineConfig({
     TanStackRouterVite(),
     react(),
   ],
+  base: '/zenniz-analytics/',
 })
